@@ -10,6 +10,6 @@
 ### Note
 This is just a for-fun project, please don't use this irresponsibly and even if you do (not that I condone it), do it at your own risk. 
 
-<sub><sup><sub><sup><sub><sup>
+<sub><sup><sub>
 IN NO EVENT, UNLESS REQUIRED BY APPLICABLE LAW OR AGREED TO IN WRITING, SHALL ME, OR ANY PERSON BE LIABLE FOR ANY LOSS, EXPENSE OR DAMAGE, OF ANY TYPE OR NATURE ARISING OUT OF THE USE OF, OR INABILITY TO USE THIS SOFTWARE OR SCRIPT, INCLUDING, BUT NOT LIMITED TO, CLAIMS, SUITS OR CAUSES OF ACTION INVOLVING ALLEGED INFRINGEMENT OF COPYRIGHTS, PATENTS, TRADEMARKS, TRADE SECRETS, OR UNFAIR COMPETITION.
-</sup></sub></sup></sub></sup></sub>
+</sub></sup></sub>
